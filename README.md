@@ -28,3 +28,29 @@
 3. Создайте таблицу с двумя вкладками: исходные данные и тестируемые значения после применения алгоритма.
 
 Мое решение: https://docs.google.com/spreadsheets/d/1c0lXm0RGozmfco3CDkbXV3guRkNdCSptQtozO-BIEl4/edit?usp=sharing
+
+---
+
+💻 ЗАДАНИЕ № 5:
+
+Написать чек-лист, который будет включать тестирование для Registration and Authorization.
+
+Мое решение: https://docs.google.com/spreadsheets/d/1XbS7Wi92jx-3EwxBCKz47U07kRN9AYwbubYHjQtwcNY/edit?usp=sharing
+
+---
+
+💻 ЗАДАНИЕ № 6:
+
+Задача
+1. Создайте 10 тест-кейсов для Registration and Authorization. Вам не нужно покрывать абсолютно все проверки из чек-листа, выберите самые основные и опишите их.
+2. Используйте тестовые данные, которые вы создавали в домашнем задании про классы эквивалентности.
+
+Мое решение: https://drive.google.com/file/d/1dTZjDjFMMYV0dtj4j4uRY3ywma6yIs8r/view?usp=sharing
+
+---
+
+💻 ЗАДАНИЕ № 7:
+
+Создание отчетов о дефекте для регистрации и логина
+
+Мое решение: https://docs.google.com/spreadsheets/d/176A0MVLFmNP-kub_aHSo4s1Trdj1L7SFhJUPZs-cd6I/edit?usp=sharing
